@@ -3,7 +3,6 @@
 ### taco
 ## About Me
 - **Im Currently Working On Nothing At The Moment**,
-- **15 Years Old**,
 - **I eat cheese alot**
 
 ## Stats
