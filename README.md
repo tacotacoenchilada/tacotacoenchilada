@@ -2,8 +2,9 @@
 
 ### taco
 ## About Me
-- **Im Currently Working On Nothing At The Moment**,
-- **I eat cheese alot**
+- **Im Currently Working On ***Polished CLI*****,
+- **Im Based In Boston**
+- **Rust Developer**
 
 ## Stats
 <img src="https://komarev.com/ghpvc/?username=tacotacoenchilada">
