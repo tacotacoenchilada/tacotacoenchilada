@@ -2,7 +2,7 @@
 
 ### taco
 ## About Me
-- **Im Currently Working On ***Nothing*** **,
+- **Im Currently Working On ***Nothing*****,
 - **Im Based In Boston**
 - **Rust Developer**
 
