@@ -2,7 +2,7 @@
 
 ### taco
 ## About Me
-- **Im Currently Working On ***Polished CLI*****,
+- **Im Currently Working On**,
 - **Im Based In Boston**
 - **Rust Developer**
 
